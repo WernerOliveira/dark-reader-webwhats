@@ -1,0 +1,153 @@
+web.whatsapp.com
+
+INVERT
+.tail-container
+.selectable-text > span._3PxOr
+
+CSS
+._1pw2F {
+    border-color: #494C59 !important;
+    border-width: 15px !important;
+    border-style: solid !important;
+}
+._2RT36 {
+    outline: solid !important;
+}
+html[dir] .Zq3Mc {
+    background-color: rgb(91, 91, 91); /* dia */
+    color: #e1d8c9;
+    text-shadow: 0 0 8px black;
+}
+html[dir] ._2nmDZ {
+    /* background-color: transparent; */
+    background-image: url(https://i.imgur.com/g6Nut3m.jpg); /* plano de fundo */
+}
+/*html[dir] ._3L8ub._38DlQ .Q8uSF {
+    background-color: rgb(225, 216, 201); /* fundo corrido do audio */
+}*/
+html[dir] ._1FroB {
+    background-color: rgb(50, 52, 61); /* foto perfil, parte superior */
+}
+html[dir] ._2fq0t {
+    background-color: rgb(72, 72, 72); /* foto perfil, fundo */
+}
+html[dir] ._3auIg {
+    background-color: rgb(50, 52, 61); /* pagina inicial, foto */
+}
+html[dir] ._1RQfk {
+    background-color: rgb(59, 59, 59); /* fundo menu (novo grupo, perfil, etc / menu da seta) */
+}
+html[dir] ._3pkkz {
+    background-color: rgb(59, 59, 59); /* fundo digitar msg */
+}
+html[dir="ltr"] .bg-color-1 {
+    background-color: rgb(131, 126, 118) !important; /* cor msg selecionada */
+}
+html[dir="ltr"] ._1JbDr {
+    border-left-color: rgb(73, 76, 89); /* fundo msg selecionada */
+}
+html[dir] .rstyJ {
+    background-color: rgb(59, 59, 59); /* fundo msg selecionada */
+}
+html[dir] ._3sEgI {
+    background-color: rgb(48, 48, 48); /* fundo da msg selecionada kkk*/
+}
+html[dir] ._3SX5f {
+    background-color: rgb(59, 59, 59); /* fundo X msg selecionada */
+}
+html[dir] .message-out .MVjBr {
+    background-color: rgb(131, 126, 118) !important; /* cor msg enviadas */
+}
+html[dir="ltr"] .message-out .tail-container {
+    background-image: url(https://i.imgur.com/xbxLDDM.png); /* ponta da msg enviada */
+}
+html[dir="ltr"] .message-in .tail-container {
+    background-image: url(https://i.imgur.com/qCsCB8b.png); /* ponta da msg recebida */
+}
+html[dir] ._2y17h {
+    background-color: rgb(50, 52, 61); /* fundo superior (contato/grupo) */
+    border-right-color: transparent /*rgb(73, 76, 89)*/;
+    border-left-color: rgb(73, 76, 89);
+}
+html[dir] .rRAIq {
+    background-color: rgb(50, 52, 55); /* fundo pesquisar */
+}
+html[dir] ._2MSJr {
+    background-color: rgb(72, 72, 72); /* campo de pesquisa */
+}
+html[dir] ._1Plpp {
+    background-color: rgb(72, 72, 72); /* onde digita mensagem */
+    border-top-color: rgb(73, 76, 89);
+    border-right-color: rgb(73, 76, 89);
+    border-bottom-color: rgb(73, 76, 89);
+    border-left-color: rgb(73, 76, 89);
+}
+html[dir] ._3j7s9 {
+    border-top-color: rgb(73, 76, 89); /* borda contato/grupo */
+}
+html[dir] ._2EXPL {
+    background-color: rgb(59, 59, 59); /* fundo contato/grupo */
+}
+html[dir] ._2EXPL:hover {
+    background-color: rgb(72, 72, 72); /* hover contato/grupo */
+}
+html[dir] ._2EXPL._1f1zm {
+    background-color: rgb(80, 80, 80); /* fundo contato/grupo selecionado */
+}
+html[dir] ._2EXPL._1f1zm:hover {
+    background-color: rgb(95, 95, 95); /* hover contato/grupo selecionado */
+}
+html[dir=ltr] ._1i1U7._2DNgV {
+    background: linear-gradient(to right, rgba(66,86,41,0) 0%, rgba(131, 126, 118,1) 50%); /* seta msg enviada */
+}
+html[dir=ltr] ._1i1U7.jZ4tp {
+    background: linear-gradient(to right, rgba(49,49,46,0) 0%, rgba(49,49,46,1) 50%); /* seta msg recebida */
+}
+html[dir] .message-in .MVjBr {
+    background-color: rgb(49, 49, 46); /* msg recebidas */
+}
+html[dir] .OUeyt {
+    background-color: rgb(119, 119, 119); /* msg nao lidas */
+}
+html[dir] .JWJN5 {
+    background-color: rgba(0,0,0, 0.86); /* cor de fundo e efeito blur quando abre uma midia */
+    padding-bottom: 100px;
+    -webkit-backdrop-filter: blur(5px);  /* quantidade de blur. deletar daqui até o final tira o blur */
+    backdrop-filter: blur(5px);  /* quantidade de blur */
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%; height: 100%;
+}
+html[dir] ._3pRd1 {
+    background-color: rgb(59, 59, 59); /* fundo parte superior, na midia */
+}
+html[dir] ._2EXPL._1FGIr:hover {
+    background-color: rgb(59, 59, 59); /* hover contato quando aberto na midia */
+}
+._3zwKD {
+    color: rgba(28,28,28,1); /* play/pause audio */
+    width: 34px;
+    height: 34px;
+    position: relative;
+    display: block;
+}
+html[dir=ltr] ._3Ye_R {
+    color: rgba(175,182,211,0.8) !important; /* grupo, pessoa nao adc */
+    margin-left: 8px;
+}
+.message-in ._1JfxZ {
+    color: rgb(49, 49, 46); /* cor seta msg recebida */
+}
+.message-out ._1JfxZ {
+    color: rgb(131, 126, 118); /* cor seta msg enviada */
+}
+html[dir] .message-out ._3JaNE ._2R8MP, html[dir] .message-out ._3JaNE ._2Ll5c {
+    background-color: rgb(131, 126, 118); /* XXX cor figura enviada XXX */
+}
+html[dir] .message-in ._3JaNE ._2R8MP, html[dir] .message-in ._3JaNE ._2Ll5c {
+    background-color: rgb(49, 49, 46); /* XXX cor figura recebida XXX */
+}
+html[dir] ._3_9XW {
+    background-color: rgb(49, 49, 46); /* XXX cor figura recebida XXX */
+}	
